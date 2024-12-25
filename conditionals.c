@@ -8,11 +8,11 @@ int main(void)
 
     if (x > y)
     {
-        printf("x is more than y\n");
+        printf("x is greater than y\n");
     }
     else if (x < y)
     {
-        printf("y is not more than x\n");
+        printf("y is not grater than x\n");
     }
     else
     {
